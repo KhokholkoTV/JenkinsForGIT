@@ -35,3 +35,4 @@ Fri Jul 22 11:43:23 MSK 2016   [info] ResourceManager : found org/uncommons/repo
 Fri Jul 22 11:43:23 MSK 2016   [info] ResourceManager : found org/uncommons/reportng/templates/html/results.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
 Fri Jul 22 11:43:23 MSK 2016   [info] ResourceManager : found org/uncommons/reportng/templates/html/class-results.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
 Fri Jul 22 11:43:23 MSK 2016   [info] ResourceManager : found org/uncommons/reportng/templates/html/output.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+nnnnnnnnnnnnnnnnnn
