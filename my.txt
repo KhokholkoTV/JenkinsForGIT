@@ -1,2 +1,1 @@
-dev
-new 
+my 3 variant
